@@ -41,6 +41,7 @@ def substep():
     backward_euler()
 
 def main():
+    # drawing stuff
     simulation_window = ti.GUI("Simple 1-D Mass Spring", res=(pixels,pixels), background_color=0xDDDDDD)
     draw_orig = np.array([[0.25, 0.5],[0.5,0.5],[0.75,0.5]])
     draw_pos = draw_orig.copy()
