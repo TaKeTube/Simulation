@@ -32,7 +32,7 @@ The norm of eigen value is $1+\frac{hk}{m}$ , which is bigger than 1. Therefore,
 
 
 
-### Semi-Implicit Euler
+### Semi-Implicit/Symplectic Euler
 
 $$
 \left\{\begin{matrix}
