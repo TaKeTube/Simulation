@@ -1,6 +1,6 @@
 # Rod in Gravitational field
 
-<img src="C:\GZM\study\ELSE\Graphics\Simulation\Practice\Simulation\EulerLagrangeEquation\res.gif" alt="res" style="zoom:80%;" />
+<img src="https://github.com/TaKeTube/Simulation/blob/main/EulerLagrangeEquation/res.gif?raw=true" alt="res" style="zoom:80%;" />
 
 ### Introduction
 
